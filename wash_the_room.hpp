@@ -1,0 +1,1 @@
+int wash_the_room(int n, int time);
